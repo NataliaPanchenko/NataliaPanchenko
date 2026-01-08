@@ -17,7 +17,7 @@ Here I share my learning projects, experiments, and progress on my journey into 
 
 **Tools:** Git, GitHub, VS Code, Chrome DevTools
 
-**Backend (upcoming):** Node.js, APIs, basic databases
+**Backend:** Node.js, APIs, basic databases
 
 ## Current Projects
 
