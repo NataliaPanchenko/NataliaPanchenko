@@ -9,7 +9,7 @@ I'm a **Frontend Developer**.
 I enjoy building clean, user-friendly interfaces and constantly improving my skills.
 Here I share my learning projects, experiments, and progress on my journey into **Front-end development**.
 
-I am currently completing a Web Development bootcamp at **neue fische**. 
+I am currently completing a Web Development bootcamp at **@neue fische**. 
 
 ## Tech Stack
 
