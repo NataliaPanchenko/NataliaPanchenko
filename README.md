@@ -25,10 +25,6 @@ I am currently completing a Web Development bootcamp at **@neuefische**.
 
 - Personal Portfolio 💻 – in progress
 
-## Background
-
-I hold a Master’s degree in Information Technologies, which enables me to think analytically, structure complex problems, and build solutions with security and reliability in mind.
-
 ## My contacts
 <img src="./linkedin.png" width="15px" height="15px" alt="linkedin icon" vertical-align="middle"/>   [LinkedIn](https://www.linkedin.com/in/nataliapanchenko/)
 
