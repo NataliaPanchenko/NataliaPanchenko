@@ -23,7 +23,7 @@ I am currently completing a Web Development bootcamp at **@neuefische**.
 
 ## Current Projects
 
-- Personal Portfolio 💻 – in progress
+Personal Portfolio 💻 – in progress
 
 ## My contacts
 <img src="./linkedin.png" width="15px" height="15px" alt="linkedin icon" vertical-align="middle"/>   [LinkedIn](https://www.linkedin.com/in/nataliapanchenko/)
