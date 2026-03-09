@@ -15,11 +15,11 @@ I am currently completing a Web Development bootcamp at **@neuefische**.
 
 **Frontend:** HTML, CSS, JavaScript
 
-**Frameworks:** React
+**Frameworks:** React, Next.js
 
-**Tools:** Git, GitHub, VS Code, Chrome DevTools
+**Tools:** Git, GitHub, VS Code, Chrome DevTools, npm
 
-**Backend:** Node.js, APIs, basic databases
+**Backend:** Node.js, APIs, MongoDB, Mongoose
 
 ## Current Projects
 
@@ -28,7 +28,7 @@ Personal Portfolio 💻 – in progress
 ## My contacts
 <img src="./linkedin.png" width="15px" height="15px" alt="linkedin icon" vertical-align="middle"/>   [LinkedIn](https://www.linkedin.com/in/nataliapanchenko/)
 
-📧 [Email](mailto:nataliipanchenko@gmail.com) 
+📨 [Email](mailto:nataliipanchenko@gmail.com) 
 
 
 
