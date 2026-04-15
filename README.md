@@ -15,7 +15,7 @@ I am currently completing a Web Development bootcamp at **@neuefische**.
 
 **Frameworks:** React, Next.js
 
-**Tools:** Git, GitHub, VS Code, Chrome DevTools, npm
+**Tools:** Git, GitHub, VS Code, Chrome DevTools
 
 **Backend:** Node.js, APIs, MongoDB, Mongoose
 
