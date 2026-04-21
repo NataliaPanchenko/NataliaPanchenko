@@ -1,32 +1,40 @@
-# Hi, i'm Natalia 👋
+# Hi, i'm Natalia 👋🏻
+![Profile views](https://komarev.com/ghpvc/?username=nataliapanchenko&color=brightgreen)
 
-## About me
+## 👩‍💻 About me
 
-I'm a **Frontend Developer**.
+I'm a **Frontend Developer** passionate about building clean, user-friendly, and responsive interfaces.
+I enjoy turning ideas into interactive experiences and continuously improving my skills in modern web development.
 
-I enjoy building clean, user-friendly interfaces and constantly improving my skills.
-Here I share my learning projects, experiments, and progress on my journey into **Front-end development**.
+Here, I share my projects, experiments, and progress on my journey in **frontend development**.
 
-I am currently completing a Web Development bootcamp at **@neuefische**. 
+🎓 I have successfully completed a **Web Development Bootcamp** at **@neuefische**.
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Frontend:** HTML, CSS, JavaScript
 
-**Frameworks:** React, Next.js
+**Frameworks & Libraries:** React, Next.js
 
 **Tools:** Git, GitHub, VS Code, Chrome DevTools
 
-**Backend:** Node.js, APIs, MongoDB, Mongoose
+**Backend:** Node.js, REST APIs, MongoDB, Mongoose
 
-## Current Projects
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=nataliapanchenko&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliapanchenko&layout=compact&theme=tokyonight)
+
+
+## 🚀 Current Projects
 
 Personal Portfolio 💻 – in progress
 
-## My contacts
+## 📬 Contact me
 <img src="./linkedin.png" width="15px" height="15px" alt="linkedin icon" vertical-align="middle"/>   [LinkedIn](https://www.linkedin.com/in/nataliapanchenko/)
 
-📨 [Email](mailto:nataliipanchenko@gmail.com) 
+📨[Email](mailto:nataliipanchenko@gmail.com) 
 
 
 
