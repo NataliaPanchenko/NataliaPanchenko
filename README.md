@@ -20,12 +20,6 @@ Here, I share my projects, experiments, and progress on my journey in **frontend
 
 **Backend:** Node.js, REST APIs, MongoDB, Mongoose
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=NataliaPanchenko&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaPanchenko&layout=compact&theme=tokyonight" />
-
 
 ## 🚀 Current Projects
 
