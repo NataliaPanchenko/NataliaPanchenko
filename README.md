@@ -22,9 +22,9 @@ Here, I share my projects, experiments, and progress on my journey in **frontend
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nataliapanchenko&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=NataliaPanchenko&show_icons=true&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliapanchenko&layout=compact&theme=tokyonight&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaPanchenko&layout=compact&theme=tokyonight" />
 
 
 ## 🚀 Current Projects
