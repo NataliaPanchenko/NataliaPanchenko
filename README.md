@@ -12,7 +12,7 @@ Here I share my projects, experiments, and progress on my journey in **frontend 
 
 ## 🛠 Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript
+**Frontend:** JavaScript, HTML, CSS (SASS. SCSS)
 
 **Frameworks & Libraries:** React, Next.js
 
