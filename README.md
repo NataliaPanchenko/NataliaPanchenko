@@ -6,7 +6,7 @@
 I'm a **Frontend Developer** passionate about building clean, user-friendly, and responsive interfaces.
 I enjoy turning ideas into interactive experiences and continuously improving my skills in modern web development.
 
-Here, I share my projects, experiments, and progress on my journey in **frontend development**.
+Here I share my projects, experiments, and progress on my journey in **frontend development**.
 
 🎓 I have successfully completed a **Web Development Bootcamp** at **@neuefische**.
 
