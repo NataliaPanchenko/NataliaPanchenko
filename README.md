@@ -16,7 +16,7 @@ Here I share my projects, experiments, and progress on my journey in **frontend 
 
 **Frameworks & Libraries:** React, Next.js
 
-**Tools:** Git, GitHub, VS Code, Chrome DevTools
+**Tools:** Git, GitHub, Vercel, VS Code, Chrome DevTools
 
 **Backend:** Node.js, REST APIs, MongoDB, Mongoose
 
