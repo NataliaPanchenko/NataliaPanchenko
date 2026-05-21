@@ -20,10 +20,26 @@ Here I share my projects, experiments, and progress on my journey in **frontend 
 
 **Backend:** Node.js, REST APIs, MongoDB, Mongoose
 
+## 🌐 Portfolio
 
-## 🚀 Current Projects
+🔗 [Visit My Portfolio](https://personal-portfolio-wine-sigma.vercel.app/)
 
-Personal Portfolio 💻 – in progress
+
+## 🚀 Featured Projects
+
+### 🎟 Event Finder
+A web platform for discovering and booking local events such as concerts, meetups, conferences, and community activities.
+
+**Features:**
+- Event search and filtering
+- Ticket booking system
+- Authentication & user profiles
+- Booking history dashboard
+
+**Tech Stack:** Next.js, MongoDB, NextAuth, Styled Components
+
+🔗 [Live Demo](https://event-finder-pearl.vercel.app/)
+
 
 ## 📬 Contact me
 <img src="./linkedin.png" width="15px" height="15px" alt="linkedin icon" vertical-align="middle"/>   [LinkedIn](https://www.linkedin.com/in/nataliapanchenko/)
