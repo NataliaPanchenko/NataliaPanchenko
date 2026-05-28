@@ -22,7 +22,7 @@ Here I share my projects, experiments, and progress on my journey in **frontend 
 
 ## 🌐 Portfolio
 
-🔗 [Visit My Portfolio](https://personal-portfolio-wine-sigma.vercel.app/) 
+👉🏼 [Visit My Portfolio](https://personal-portfolio-wine-sigma.vercel.app/) 
 
 
 ## 🚀 Featured Projects
