@@ -8,7 +8,7 @@ I enjoy turning ideas into interactive experiences and continuously improving my
 
 Here I share my projects, experiments, and progress on my journey in **frontend development**.
 
-🎓 I have successfully completed a **Web Development Bootcamp** at **@neuefische**.
+🎓 I have successfully completed a **Web Development Bootcamp** at **@neuefische** 🐠.
 
 ## 🛠 Tech Stack
 
@@ -22,7 +22,7 @@ Here I share my projects, experiments, and progress on my journey in **frontend 
 
 ## 🌐 Portfolio
 
-🔗 [Visit My Portfolio](https://personal-portfolio-wine-sigma.vercel.app/) (in progress)
+🔗 [Visit My Portfolio](https://personal-portfolio-wine-sigma.vercel.app/) 
 
 
 ## 🚀 Featured Projects
