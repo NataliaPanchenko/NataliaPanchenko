@@ -22,7 +22,7 @@ Here I share my projects, experiments, and progress on my journey in **frontend 
 
 ## 🌐 Portfolio
 
-🔗 [Visit My Portfolio](https://personal-portfolio-wine-sigma.vercel.app/) 
+👉🏼 [Visit My Portfolio](https://personal-portfolio-wine-sigma.vercel.app/) 
 
 
 ## 🚀 Featured Projects
@@ -38,7 +38,7 @@ A web platform for discovering and booking local events such as concerts, meetup
 
 **Tech Stack:** Next.js, MongoDB, NextAuth, Styled Components
 
-🔗 [Live Demo](https://event-finder-pearl.vercel.app/)
+👉🏼 [Live Demo](https://event-finder-pearl.vercel.app/)
 
 
 ## 📬 Contact me
